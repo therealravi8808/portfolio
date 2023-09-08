@@ -50,7 +50,7 @@ const Contact = () => {
        <textarea className='msg' name="message" rows="5" placeholder='Your Message' ></textarea>
         <button type='submit' value='Send' className="submitBtn">Submit</button>
         <div className='links'>
-            <img src={FecebookIcon} alt="Facebook" className="link"/>
+            <img src={FecebookIcon} alt="Facebook" className="link"        />
             <img src={InstagramIcon} alt="Instragram" className="link"/>
             <img src={YouTubeIcon} alt="Youtube" className="link"/>
             <img src={TwitterIcon} alt="Twitter" className="link"/>
